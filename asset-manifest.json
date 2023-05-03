@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/react-menu-kuji/static/css/main.5249c59b.css",
+    "main.js": "/react-menu-kuji/static/js/main.ba105068.js",
+    "static/js/787.dd8d5867.chunk.js": "/react-menu-kuji/static/js/787.dd8d5867.chunk.js",
+    "static/media/cheeseburger.jpg": "/react-menu-kuji/static/media/cheeseburger.afb77595527c2d0ebfc6.jpg",
+    "static/media/chalmak.jpg": "/react-menu-kuji/static/media/chalmak.74eb6b5c34bcbadcc01b.jpg",
+    "static/media/hamburger.jpg": "/react-menu-kuji/static/media/hamburger.bb03cf060d8db6cdaefc.jpg",
+    "static/media/caesar roll.jpg": "/react-menu-kuji/static/media/caesar roll.4f005499f44e71393df5.jpg",
+    "static/media/thx_w.png": "/react-menu-kuji/static/media/thx_w.d12acd79923afc6e431f.png",
+    "static/media/thx_b.png": "/react-menu-kuji/static/media/thx_b.48857822b1b0964eeefd.png",
+    "static/media/bbq burger.jpg": "/react-menu-kuji/static/media/bbq burger.0fdfc2b0ae56999af128.jpg",
+    "static/media/summer.jpg": "/react-menu-kuji/static/media/summer.414953e41e6a964afe11.jpg",
+    "static/media/nuggets.jpg": "/react-menu-kuji/static/media/nuggets.20d1d04efb95c40245d1.jpg",
+    "static/media/wings.jpg": "/react-menu-kuji/static/media/wings.5ff5cf109770c290a57d.jpg",
+    "static/media/pouret.jpg": "/react-menu-kuji/static/media/pouret.c2c98fd240e2c5650120.jpg",
+    "static/media/fries.jpg": "/react-menu-kuji/static/media/fries.efe95eb6b3a873d73d60.jpg",
+    "static/media/mushroom.jpg": "/react-menu-kuji/static/media/mushroom.24c15dedb72c0fb38880.jpg",
+    "static/media/tom yum.jpg": "/react-menu-kuji/static/media/tom yum.34f2e46284e555d1bf7d.jpg",
+    "static/media/chaltasty roll.jpg": "/react-menu-kuji/static/media/chaltasty roll.216195140086de9a4430.jpg",
+    "static/media/aidaho.jpg": "/react-menu-kuji/static/media/aidaho.99fe75671e3e06845348.jpg",
+    "static/media/borstch.jpg": "/react-menu-kuji/static/media/borstch.5a256cffa8ca9d41bbc3.jpg",
+    "static/media/3081797.png": "/react-menu-kuji/static/media/3081797.b36ffd47d36a4da60031.png",
+    "static/media/solianka.jpg": "/react-menu-kuji/static/media/solianka.7b48c98256bb03fe6a51.jpg",
+    "static/media/Giros chicken.jpeg": "/react-menu-kuji/static/media/Giros chicken.232f86c9160c48d997a3.jpeg",
+    "static/media/Giros_beef.jpeg": "/react-menu-kuji/static/media/Giros_beef.a1d03fc64b8c9ad7e7af.jpeg",
+    "index.html": "/react-menu-kuji/index.html",
+    "main.5249c59b.css.map": "/react-menu-kuji/static/css/main.5249c59b.css.map",
+    "main.ba105068.js.map": "/react-menu-kuji/static/js/main.ba105068.js.map",
+    "787.dd8d5867.chunk.js.map": "/react-menu-kuji/static/js/787.dd8d5867.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5249c59b.css",
+    "static/js/main.ba105068.js"
+  ]
+}
