@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-menu-kuji/static/css/main.5249c59b.css",
-    "main.js": "/react-menu-kuji/static/js/main.ffc5a993.js",
+    "main.js": "/react-menu-kuji/static/js/main.f91afd22.js",
     "static/js/787.dd8d5867.chunk.js": "/react-menu-kuji/static/js/787.dd8d5867.chunk.js",
     "static/media/super shrimp.png": "/react-menu-kuji/static/media/super shrimp.c55e4102c1737c37e445.png",
     "static/media/wok.png": "/react-menu-kuji/static/media/wok.58ff6360fef39a87b25b.png",
@@ -53,11 +53,11 @@
     "static/media/3081797.png": "/react-menu-kuji/static/media/3081797.b36ffd47d36a4da60031.png",
     "index.html": "/react-menu-kuji/index.html",
     "main.5249c59b.css.map": "/react-menu-kuji/static/css/main.5249c59b.css.map",
-    "main.ffc5a993.js.map": "/react-menu-kuji/static/js/main.ffc5a993.js.map",
+    "main.f91afd22.js.map": "/react-menu-kuji/static/js/main.f91afd22.js.map",
     "787.dd8d5867.chunk.js.map": "/react-menu-kuji/static/js/787.dd8d5867.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5249c59b.css",
-    "static/js/main.ffc5a993.js"
+    "static/js/main.f91afd22.js"
   ]
 }
